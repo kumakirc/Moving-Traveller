@@ -32,10 +32,10 @@ public enum UserDefaultKey: String {
 
 public enum TaskJSONKey: String {
   case TaskID = "task_id",
-  Title = "title",
-  Notes = "notes",
-  DueDate = "due_date",
-  Done = "done"
+  Title = "Title",
+  Notes = "Notes",
+  DueDate = "Due_date",
+  Done = "Done"
 }
 
 public enum FileName: String {
